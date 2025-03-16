@@ -6,7 +6,7 @@ export default function handler(req, res) {
       return res.status(200).json({ message: "Get successfully implemented" });
     } else if (req.method === 'PUT') {
       // Simulate PUT update item
-      return res.status(200).json({ message: "Put successfully implemented" });
+      return res.status(200).json({ message: "Put successfullGGGGGGGGGy implemented" });
     } else if (req.method === 'DELETE') {
       // Simulate DELETE item
       return res.status(200).json({ message: "Delete successfully implemented" });
